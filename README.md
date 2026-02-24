@@ -1,4 +1,4 @@
-# 👨‍💻 Pulkit Bhatia | Computer Science Student
+# Pulkit Bhatia | Computer Science Student
 
 Hi there! I'm a third-year **Computer Science** student at **York University** with a strong passion for building efficient web applications, working with databases, and exploring the world of **cybersecurity**. I love solving problems and am always eager to learn new technologies and improve my skills.
 
