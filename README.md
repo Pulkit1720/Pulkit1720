@@ -1,71 +1,25 @@
-# Pulkit Bhatia | Computer Science Student
+Hi, I'm Pulkit 👋
+Computer Science student at York University (graduating April 2026), with an electronics engineering background and real-world experience in field operations, production support, and reporting analytics.
+I like building full-stack tools that sit between operational systems and the people who need to make decisions from them — dashboards, dispatch logic, market analytics, that kind of thing.
 
-Hi there! I'm a third-year **Computer Science** student at **York University** with a strong passion for building efficient web applications, working with databases, and exploring the world of **cybersecurity**. I love solving problems and am always eager to learn new technologies and improve my skills.
+🔧 Tech I work with
+Languages — Python, TypeScript, JavaScript, Java, SQL, C/C++
+Frontend — React, Next.js, React Native, Tailwind
+Backend — Node.js, Express, FastAPI, Reflex, SQLModel
+Data — PostgreSQL, SQLite, Pandas, NumPy
+Infra & Tools — Docker, AWS, GCP, Azure, Git
 
----
+🚀 Featured projects
+🛰️ Fleet Command — field operations SaaS
+A full-stack platform for real-time technician dispatching with GPS geofencing and an admin dashboard for tracking field operations across multiple sites.
+Stack: Next.js 14, React Native (Expo), Node.js, PostgreSQL, Mapbox.
+Monorepo architecture with a web admin app and a mobile agent app, plus a backend service that validates technician location (200m geofence) before allowing job actions.
+📈 Daily Portfolio Analytics & Pricing Tracker — Python analytics app
+Ingests portfolio data via CSV, pulls daily market pricing through the yfinance API, and generates automated trading signals from momentum metrics.
+Stack: Python, FastAPI, SQLModel (SQLite), Reflex, Docker Compose.
+Reactive frontend in Reflex (React in Python), async data pulls, and a containerized backend that surfaces KPIs like price momentum, daily returns, and rolling performance.
 
-## About Me
+📫 Reach me
 
-- **Current Education**: Third Year, Bachelor of Computer Science, **York University**
-- **Tech Enthusiast**: Focused on **backend development**, **databases**, and **cybersecurity**.
-- **Always Learning**: Continuously improving my skills in **Node.js**, **MySQL**, and **cybersecurity principles**.
-
----
-
-## Skills
-
-- **Programming Languages**:  
-  - JavaScript (Node.js)
-  - SQL (MySQL)
-  - Python (Scripting and Automation)
-  - HTML/CSS (Frontend Basics)
-  
-- **Backend Development**:  
-  - **Node.js** (Express.js, REST APIs)
-  - **Authentication & Authorization** (JWT, OAuth)
-  - **Web Servers** (Nginx, Apache)
-
-- **Databases**:  
-  - **MySQL** (Relational Database Design, SQL Queries, Joins, Indexing)
-  - **Database Optimization** (Query performance, Schema design)
-
-- **Cybersecurity**:  
-  - Knowledge of **OWASP Top 10** security risks (SQL injection, XSS, CSRF, etc.)
-  - **Penetration Testing** (Tools like Burp Suite, Kali Linux)
-  - **Encryption & Hashing** (JWT, HTTPS, bcrypt)
-  - Basic knowledge of **network security** and **firewall management**
-
-- **Tools & Platforms**:  
-  - **Git & GitHub** (Version Control)
-  - **Docker** (Containerization)
-  - **Linux/Unix** (Command Line Proficiency)
-
----
-
-## Projects
-
-Still Working on them.
----
-
-## Education
-
-**York University**, Toronto, ON  
-*Bachelor of Computer Science*, Expected Graduation: 2025  
-Relevant Coursework:  
-- Data Structures & Algorithms  
-- Web Development & Databases  
-- Cybersecurity Fundamentals  
-- Object-Oriented Programming  
-- Network Security
-
----
-
-## Currently Learning
-
-- **Advanced Cybersecurity**: Expanding my knowledge of ethical hacking, penetration testing, and network security tools.
-- **Secure Software Development**: Focusing on writing secure code, using frameworks like **OWASP** to avoid vulnerabilities in my applications.
-- **Cloud Security**: Exploring how to secure cloud infrastructure and applications.
-
-## 🌍 Connect with Me
-- **Email**: bhatiapulkit40@gmail.com
-
+💼 LinkedIn — pulkit-bhatia-yorku
+📧 Email — bhatiapulkit40@gmail.com
