@@ -1,5 +1,5 @@
 Hi, I'm Pulkit 👋
-Computer Science student at York University (graduating April 2026), with an electronics engineering background and real-world experience in field operations, production support, and reporting analytics.
+Computer Science graduate from York University , with an electronics engineering background and real-world experience in field operations, production support, and reporting analytics.
 I like building full-stack tools that sit between operational systems and the people who need to make decisions from them — dashboards, dispatch logic, market analytics, that kind of thing.
 
 🔧 Tech I work with
@@ -21,5 +21,5 @@ Reactive frontend in Reflex (React in Python), async data pulls, and a container
 
 📫 Reach me
 
-💼 LinkedIn — pulkit-bhatia-yorku
+💼 LinkedIn — pulkitbhatia26
 📧 Email — bhatiapulkit40@gmail.com
